@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexNYC25/UnicodeWebApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mariadb": "^2.1.2"
   }
 }
